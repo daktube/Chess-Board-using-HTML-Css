@@ -1,0 +1,39 @@
+body{
+    background-color: bisque;
+}
+.box{
+    /* float: left; */
+    background-color: aliceblue;
+    border: 1px solid black;
+    width: 90px;
+    height: 80px;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    margin: -2px;
+}
+.black{
+    /* float: left; */
+    background-color: grey;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.size{
+    padding-left: 386.8px;
+    padding-top: 13px;
+}
+
+h3{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: rgb(79, 18, 184);
+
+}
+
+h3 span{
+    background-color: aqua;
+    border: 2.8px solid;
+}
